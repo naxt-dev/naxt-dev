@@ -13,6 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=A97BFF)
 ![C](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=5CC8FF)
 ![PHP](https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=8892FF)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=FF6B35)
 ![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-121212?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
