@@ -25,6 +25,7 @@
 * C
 * Kotlin
 * PHP
+* Python
 * Git e GitHub
 * Lógica de Programação
 * Estruturas de Dados
