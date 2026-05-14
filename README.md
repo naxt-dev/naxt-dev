@@ -35,8 +35,11 @@
 ## Projetos em Destaque
 
 🔹 Sistema de gerenciamento de estoque de uma Cafeteria
+
 🔹 Sistema de Cadastro para Academia
+
 🔹 Sistema de Cadastro e Consulta de produtos
+
 🔹 Harry Potter Escola de Magia (tabuleiro em C)
 
 ---
