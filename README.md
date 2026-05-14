@@ -48,9 +48,9 @@
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naxt-dev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=naxt-dev&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxt-dev&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=naxt-dev&layout=compact&theme=dark)
 
 ---
 
