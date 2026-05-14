@@ -14,9 +14,11 @@
 ![C](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=5CC8FF)
 ![PHP](https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=8892FF)
 ![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FFD43B)
+![MySQL](https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=5CC8FF)
 ![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=FF6B35)
 ![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-121212?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
 
@@ -46,19 +48,24 @@
 
 ## Estatísticas do GitHub
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naxt-dev&show_icons=true&theme=dark)
-```
 
-```md
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naxt-dev&layout=compact&theme=dark)
-```
 
 ---
 
 ## Contato
 
 💼 LinkedIn: [www.linkedin.com/in/natanael-santos-borges](http://www.linkedin.com/in/natanael-santos-borges)
+
+---
+
+## Atualmente estudando
+
+- Kotlin
+- Estruturas de Dados
+- Banco de Dados
+- Desenvolvimento Back-end
 
 ---
 
