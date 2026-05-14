@@ -36,13 +36,17 @@
 
 ## Projetos em Destaque
 
-🔹 Sistema de gerenciamento de estoque de uma Cafeteria
+* [🔹 Sistema de Gerenciamento de Estoque - Cafeteria](https://github.com/naxt-dev/cafeteria-kotlin)
+  * Desenvolvimento em **Kotlin** com foco em lógica de negócios e gerenciamento de dados.
 
-🔹 Sistema de Cadastro para Academia
+* [🔹 Harry Potter: Escola de Magia](https://github.com/naxt-dev/harry-potter-escolademagia)
+  * Um jogo de tabuleiro desenvolvido em **C**, explorando lógica de matrizes e algoritmos.
 
-🔹 Sistema de Cadastro e Consulta de produtos
+* [🔹 Sistema de Cadastro para Academia](https://github.com/naxt-dev/Sistema-de-cadastro-academia)
+  * Projeto focado em estruturas de dados e manipulação de cadastros.
 
-🔹 Harry Potter Escola de Magia (tabuleiro em C)
+* [🔹 Sistema de Cadastro e Consulta de Produtos](https://github.com/naxt-dev/Sistema-de-Cadastro-e-Consulta-de-Produtos)
+  * Implementação prática de busca e organização de informações.
 
 ---
 
