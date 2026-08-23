@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2dteXNqM2xrMTFncXNpZWFwcDByb3U0NXFxMjY1Njhhbnp1aXZnbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/arxiLc5EiFhja/giphy.gif" width="850">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXludDBlMGV6ZWQwOWp3MnN3Ym50dDFkMjcxdGthM3l4eHB6dXhoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MWwhGqOo7YZdL6yoFK/giphy.gif" width="425">
 </p>
 
-<h1 align="center">👾 Hello World, eu sou o Natanael Borges</h1>
+<h1 align="center">⋆｡ Hi, I'm Natanael Borges</h1>
 
 <p align="center">
-💻 Estudante e desenvolvedor em formação <br>
-📚 Compartilhando projetos acadêmicos, estudos e experimentos em programação <br>
-🚀 Foco em lógica, algoritmos e desenvolvimento de software
+  [ 𖦹 ] Software Engineering student & aspiring developer <br>
+  [ 𓇼 ] Sharing academic projects, studies, and programming experiments <br>
+  [ ⊹ ] Focused on logic, algorithms, and back-end development
 </p>
 
 ---
 
-## 🌌 Sobre mim
+## ✦ About Me
 
-- 📚 Desenvolvendo projetos acadêmicos e pessoais
-- 🧠 Aprendendo novas tecnologias e boas práticas
-- ⚡ Explorando lógica, algoritmos e desenvolvimento back-end
-- 🎯 Evoluindo um projeto por vez
+- **Building** academic and personal projects
+- **Learning** new technologies and software development best practices
+- **Exploring** logic, algorithms, and back-end architecture
+- **Evolving** one project at a time
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ Tech Stack
 
 <p align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## ✦ GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=naxt-dev&show_icons=true&theme=tokyonight"/>
@@ -54,32 +54,32 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## ✦ Featured Projects
 
-### 🔹 [Sistema de Gerenciamento de Estoque - Cafeteria](https://github.com/naxt-dev/cafeteria-kotlin)
-> Desenvolvimento em **Kotlin** com foco em lógica de negócios e gerenciamento de dados.
+### ◈ [Coffee Shop Inventory Management System](https://github.com/naxt-dev/cafeteria-kotlin)
+> Developed in **Kotlin** with a focus on business logic and data management.
 
-### 🔹 [Harry Potter: Escola de Magia](https://github.com/naxt-dev/harry-potter-escolademagia)
-> Jogo de tabuleiro desenvolvido em **C**, explorando lógica de matrizes e algoritmos.
+### ◈ [Harry Potter: Magic School](https://github.com/naxt-dev/harry-potter-escolademagia)
+> Terminal-based board game developed in **C**, exploring matrix logic and algorithms.
 
-### 🔹 [Sistema de Cadastro para Academia](https://github.com/naxt-dev/Sistema-de-cadastro-academia)
-> Projeto focado em estruturas de dados e manipulação de cadastros.
+### ◈ [Gym Member Registration System](https://github.com/naxt-dev/Sistema-de-cadastro-academia)
+> Project focused on data structures and record manipulation.
 
-### 🔹 [Sistema de Cadastro e Consulta de Produtos](https://github.com/naxt-dev/Sistema-de-Cadastro-e-Consulta-de-Produtos)
-> Implementação prática de busca e organização de informações.
+### ◈ [Product Registration and Query System](https://github.com/naxt-dev/Sistema-de-Cadastro-e-Consulta-de-Produtos)
+> Practical implementation of information search and organization algorithms.
 
 ---
 
-## 📚 Atualmente estudando
+## ✦ Currently Studying
 
+- Java & Spring Boot
 - Kotlin
-- Estruturas de Dados
-- Banco de Dados
-- Desenvolvimento Back-end
+- Database Modeling 
+- Back-end Development
 
 ---
 
-## 🌐 Conecte-se comigo
+## ✦ Connect with me
 
 <p align="center">
 
@@ -103,16 +103,12 @@
 
 ---
 
-## 🎯 Objetivo
+## ✦ Goal
 
-Continuar evoluindo como desenvolvedor, criando projetos práticos e aprofundando conhecimentos em programação e tecnologia.
+To continue evolving as a developer, building practical projects, and deepening my knowledge in programming and software architecture.
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naxt-dev&style=for-the-badge&color=blueviolet" />
-</p>
-
-<p align="center">
-  <i>"Transformando lógica em código."</i>
 </p>
