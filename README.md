@@ -61,7 +61,7 @@ I use this profile to document my academic projects, personal experiments and my
 ## ✦ Featured Projects
 
 ### ◈ [Library Management System](https://github.com/naxt-dev/sistema-biblioteca)
-> Backend application developed with **Java and Spring Boot**, focused on applying object-oriented programming, database integration and RESTful application development.
+> Backend application developed with **Java and Spring Boot**, focused on object-oriented programming, database integration and web application development.
 
 **Java · Spring Boot · SQL · OOP**
 
