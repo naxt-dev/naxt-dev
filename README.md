@@ -60,23 +60,20 @@ I use this profile to document my academic projects, personal experiments and my
 
 ## ✦ Featured Projects
 
-### ◈ Library Management System
-
+### ◈ [Library Management System](https://github.com/naxt-dev/sistema-biblioteca)
 > Backend application developed with **Java and Spring Boot**, focused on applying object-oriented programming, database integration and RESTful application development.
 
 **Java · Spring Boot · SQL · OOP**
 
-### ◈ AgroCoop
-
+### ◈ [AgroCoop](https://github.com/naxt-dev/AgroCoop_projeto)
 > Academic software project developed in **Java**, combining programming fundamentals with database management and application development.
 
 **Java · SQL · Software Development**
 
-### ◈ Coffee Shop Inventory Management System
+### ◈ [Web Test Automation](https://github.com/naxt-dev/automacao-selenium)
+> Web test automation project developed with **Python, Selenium WebDriver and unittest**, focused on validating user interactions, form inputs and application behavior.
 
-> Console application developed in **Kotlin**, focused on business logic, data manipulation and programming fundamentals.
-
-**Kotlin · Data Structures · Business Logic**
+**Python · Selenium · unittest · Software Testing**
 
 ---
 
