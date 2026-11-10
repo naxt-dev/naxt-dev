@@ -1,130 +1,90 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXludDBlMGV6ZWQwOWp3MnN3Ym50dDFkMjcxdGthM3l4eHB6dXhoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MWwhGqOo7YZdL6yoFK/giphy.gif" width="425">
-</p>
 
-<h1 align="center">⋆｡ Hi, I'm Natanael Borges</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Student & Backend Developer in Training</b><br>
-  Focused on Java, Spring Boot, APIs REST and relational databases
-</p>
+# Natanael Borges
 
----
+**Software Engineering Student · Backend Developer**
 
-## ✦ About Me
+[LinkedIn](https://www.linkedin.com/in/natanael-santos-borges/) · [GitHub](https://github.com/naxt-dev)
 
-I'm a Software Engineering student focused on **backend development and software engineering fundamentals**.
-
-I enjoy building projects that allow me to practice **programming logic, object-oriented programming, database design and application architecture**.
-
-Currently, my main focus is **Java and Spring Boot**, while continuing to develop my knowledge of **Kotlin, Python, SQL, testing and software development best practices**.
-
-I use this profile to document my academic projects, personal experiments and my progress as a developer.
+</div>
 
 ---
 
-## ✦ Tech Stack
+### About
 
-### Backend & Programming
+Software Engineering student at FUCAPI, interested in backend development, software architecture and database systems.
 
-<p align="center">
+Currently focused on **Java and Spring Boot**, while developing practical experience with software testing, automation and AI-assisted development.
 
-![Java](https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-121212?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Kotlin](https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=A97BFF)
-![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FFD43B)
+### Tech Stack
 
-</p>
+<div align="left">
 
-### Databases & Tools
+![Java](https://img.shields.io/badge/Java-181825?style=flat-square&logo=openjdk&logoColor=CBA6F7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-181825?style=flat-square&logo=springboot&logoColor=A6E3A1)
+![MySQL](https://img.shields.io/badge/MySQL-181825?style=flat-square&logo=mysql&logoColor=89B4FA)
+![Python](https://img.shields.io/badge/Python-181825?style=flat-square&logo=python&logoColor=F9E2AF)
+![Selenium](https://img.shields.io/badge/Selenium-181825?style=flat-square&logo=selenium&logoColor=A6E3A1)
+![Git](https://img.shields.io/badge/Git-181825?style=flat-square&logo=git&logoColor=F38BA8)
+![GitHub](https://img.shields.io/badge/GitHub-181825?style=flat-square&logo=github&logoColor=CDD6F4)
 
-<p align="center">
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=5CC8FF)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=FF6B35)
-![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VSCode](https://img.shields.io/badge/VSCode-121212?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
-
-</p>
-
-### Fundamentals
-
-<p align="center">
-
-`OOP` · `Data Structures` · `SQL` · `REST APIs` · `Software Architecture` · `Software Testing`
-
-</p>
+**Additional knowledge:** C, C++, Kotlin, HTML, CSS and SQL.
 
 ---
 
-## ✦ Featured Projects
+### Selected Projects
 
-### ◈ [Library Management System](https://github.com/naxt-dev/sistema-biblioteca)
-> Backend application developed with **Java and Spring Boot**, focused on object-oriented programming, database integration and web application development.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Java · Spring Boot · SQL · OOP**
+**[Library Management System](https://github.com/naxt-dev/sistema-biblioteca)**
 
-### ◈ [AgroCoop](https://github.com/naxt-dev/AgroCoop_projeto)
-> Academic software project developed in **Java**, combining programming fundamentals with database management and application development.
+A web-based library management system featuring book lending, reservations and business rules.
 
-**Java · SQL · Software Development**
+`Java` `Spring Boot` `Thymeleaf` `MySQL`
 
-### ◈ [Web Test Automation](https://github.com/naxt-dev/automacao-selenium)
-> Web test automation project developed with **Python, Selenium WebDriver and unittest**, focused on validating user interactions, form inputs and application behavior.
+</td>
+<td width="50%" valign="top">
 
-**Python · Selenium · unittest · Software Testing**
+**[AgroCoop](https://github.com/naxt-dev/AgroCoop_projeto)**
 
----
+A cooperative management application focused on object-oriented programming, business logic and exception handling.
 
-## ✦ What I'm Working On
+`Java` `OOP` `SQL`
 
-- Developing backend applications with **Java & Spring Boot**
-- Building and consuming **REST APIs**
-- Improving my knowledge of **relational databases and SQL**
-- Practicing **automated testing**
-- Studying **software architecture and development best practices**
-- Building projects to strengthen my backend portfolio
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
----
+**[Selenium Automation](https://github.com/naxt-dev/automacao-selenium)**
 
-## ✦ GitHub Stats
+Automated web testing using Selenium WebDriver, Python and unittest.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=naxt-dev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=naxt-dev&layout=compact&theme=tokyonight"/>
-</p>
+`Python` `Selenium` `unittest`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naxt-dev&theme=tokyonight" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## ✦ Connect with me
+### Education
 
-<p align="center">
+**Software Engineering** · FUCAPI  
+Currently pursuing a degree.
 
-<a href="https://www.linkedin.com/in/natanael-santos-borges" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-
-<a href="mailto:natanaelborges2004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
-
-<a href="https://github.com/naxt-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-</p>
+**Technical Degree in Information Technology** · CETAM  
+Completed.
 
 ---
 
-<p align="center">
-  <i>Building, learning and evolving one project at a time.</i>
-</p>
+### Currently Exploring
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naxt-dev&style=for-the-badge&color=blueviolet" />
-</p>
+- Backend development with Java and Spring Boot.
+- Software architecture and automated testing.
+- Artificial Intelligence and AI-assisted development.
